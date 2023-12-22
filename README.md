@@ -16,3 +16,6 @@ Create a file named app.py
 
 Make sure you have Node.js and npm installed. Create a new React app:
 
+npx create-react-app react-app
+cd react-app
+
