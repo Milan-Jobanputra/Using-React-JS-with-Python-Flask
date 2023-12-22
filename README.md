@@ -12,3 +12,7 @@ pip install flask
 
 Create a file named app.py 
 
+# Create a React App (frontend):
+
+Make sure you have Node.js and npm installed. Create a new React app:
+
