@@ -22,5 +22,7 @@ cd react-app
 
 We bit modified the content of the src/App.js , Here uploade file have modifed one.
 
+Update public/index.html as per given in file here. 
+
 
 
