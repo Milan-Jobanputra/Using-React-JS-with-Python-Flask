@@ -35,6 +35,8 @@ npm start
 
 Visit http://localhost:3000 in your browser, and you should see "React with Python" along with the message fetched from the Flask backend.
 
+This is a simple example, and in a real-world application, you would likely have more complex interactions, additional routes, state management, and possibly use a build tool like Webpack to bundle your frontend code.
+
 
 
 
