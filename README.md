@@ -31,6 +31,10 @@ python app.py
 
 In another terminal, run the React frontend:
 
+npm start
+
+Visit http://localhost:3000 in your browser, and you should see "React with Python" along with the message fetched from the Flask backend.
+
 
 
 
