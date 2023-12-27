@@ -24,5 +24,14 @@ We bit modified the content of the src/App.js , Here uploade file have modifed o
 
 Update public/index.html as per given in file here. 
 
+# Run the Apps:
+In one terminal, run the Flask backend:
+
+python app.py
+
+In another terminal, run the React frontend:
+
+
+
 
 
